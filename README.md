@@ -7,3 +7,9 @@
   <img src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 </div>
+
+## Get in Touch
+I'm always open to collaboration and new opportunities. Feel free to reach out:
+
+- 📧 Email: harishkb20205@gmail.com
+- 💼 LinkedIn: linkedin.com/in/harish-kb-9417ba252
