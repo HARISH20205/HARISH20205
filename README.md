@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! 👋<br>🔭 Currently working on: Blockchain-based Certification System, VerbiSense (AI-powered document retrieval), AI-powered ATS.<br>🤝 Looking to collaborate on: AI, LLM Agents, Backend Development (Python: FastAPI, Django, Flask), and deploying AI models in low-resource environments.<br>🌱 Currently learning: ROS2, React, Advanced AI Agents, and integrating AI into robotics.<br>❓ Ask me about: AI ,LLMs, model optimization, Python-based backend systems.<br>🎉 Fun fact: I’m part of Team Avatar.
+Hi there! 👋<br>
+
+🔭 Currently working on: Blockchain-based Certification System, VerbiSense (AI-powered document retrieval), AI-powered ATS.<br>
+🤝 Looking to collaborate on: AI, LLM Agents, Backend Development (Python: FastAPI, Django, Flask), and deploying AI models in low-resource environments.<br>
+🌱 Currently learning: ROS2, React, Advanced AI Agents, and integrating AI into robotics.<br>
+❓ Ask me about: AI ,LLMs, model optimization, Python-based backend systems.<br>
+🎉 Fun fact: I’m part of Team Avatar.
 
 
 ## 🌐 Socials:
