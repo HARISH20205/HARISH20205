@@ -1,12 +1,10 @@
 # 💫 About Me:
 Hi there! 👋<br>
 
-🔭 Currently working on: Blockchain-based Certification System, VerbiSense (AI-powered document retrieval), AI-powered ATS.<br>
-🤝 Looking to collaborate on: AI, LLM Agents, Backend Development (Python: FastAPI, Django, Flask), and deploying AI models in low-resource environments.<br>
-🌱 Currently learning: ROS2, React, Advanced AI Agents, and integrating AI into robotics.<br>
-❓ Ask me about: AI ,LLMs, model optimization, Python-based backend systems.<br>
-🎉 Fun fact: I’m part of Team Avatar.
-
+🔭 Current Projects: Advanced AI agents, Go backend systems, enhancing humanoid robot capabilities.
+🤝 Collaboration Interests: Robotics, AI systems, backend development, resource-efficient AI deployments.
+🌱 Skill Development: Advanced AI agents, PyTorch, ROS2, and GO.
+❓ Ask Me About: AI, backend engineering, AI optimization, and deployment in constrained environments.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHWCJ2WS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_20205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kb-9417ba252) 
