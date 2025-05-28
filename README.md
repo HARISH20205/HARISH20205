@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi there! 👋<br>
 
-🔭 Current Projects: Advanced AI agents, Go backend systems, enhancing humanoid robot capabilities.
-🤝 Collaboration Interests: Robotics, AI systems, backend development, resource-efficient AI deployments.
-🌱 Skill Development: Advanced AI agents, PyTorch, ROS2, and GO.
-❓ Ask Me About: AI, backend engineering, AI optimization, and deployment in constrained environments.
+🔭 Current Projects: Advanced AI agents, Go backend systems, enhancing humanoid robot capabilities.<br>
+🤝 Collaboration Interests: Robotics, AI systems, backend development, resource-efficient AI deployments.<br>
+🌱 Skill Development: Advanced AI agents, PyTorch, ROS2, and GO.<br>
+❓ Ask Me About: AI, backend engineering, AI optimization, and deployment in constrained environments.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHWCJ2WS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_20205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kb-9417ba252) 
