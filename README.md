@@ -1,23 +1,122 @@
-# 💫 About Me:
-Hi there! 👋<br>
+<h1 align="center">Hi, I'm Harish KB 👋</h1>
+<h3 align="center">AI Engineer • Backend Developer</h3>
 
-🔭 Current Projects: Advanced AI agents, Go backend systems, enhancing humanoid robot capabilities.<br>
-🤝 Collaboration Interests: Robotics, AI systems, backend development, resource-efficient AI deployments.<br>
-🌱 Skill Development: Advanced AI agents, PyTorch, ROS2, and GO.<br>
-❓ Ask Me About: AI, backend engineering, AI optimization, and deployment in constrained environments.<br>
+<p align="center">
+  Building bots that nearly pass the Turing test, driven by AI backends, Go panics, and logic hotfixed in prod.<br>
+  Backend mayhem or agents hallucinating? I’ve got caffeine, let’s cook.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHWCJ2WS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_20205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kb-9417ba252) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HARISH20205&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HARISH20205&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH20205&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🔁 Fork First, Merge Later
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Email: [harishkb20205@gmail.com](mailto:harishkb20205@gmail.com)
+- Portfolio: [harish-kb-portfolio.vercel.app](https://harish-kb-portfolio.vercel.app/)
+- LinkedIn: https://linkedin.com/in/harish-kb-9417ba252
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HARISH20205&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🛠️ Behind the Code
+
+🔭 **Current Projects:** Advanced AI agents, large-scale AI inference & optimization systems, and scalable Go backend services.  
+🤝 **Collaboration Interests:** Robotics, AI systems, backend engineering, and LLM-powered applications.  
+🌱 **Skill Development:** Go (advanced backend), Langflow, React.js, ROS2, multi-model orchestration, and GPU scheduling.  
+❓ **Ask Me About:** AI agents, backend development, LLM integration, AI optimization, and deployment in constrained environments.
+
+---
+
+# 🚀 Tech Arsenal
+
+### 🧠 Languages I Speak (to Computers)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+---
+
+### 🌐 Frontend Development
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+---
+
+### 🛠️ Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+
+---
+
+### 🤖 AI, ML & Research Playground
+
+![LLMs](https://img.shields.io/badge/-LLMs-F9A825?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/-Fine--Tuning-512DA8?style=for-the-badge)
+![Inference](https://img.shields.io/badge/-Inference-3949AB?style=for-the-badge)
+![Quantization](https://img.shields.io/badge/-Quantization-0097A7?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-YOLOv5-4A148C?style=for-the-badge)
+![ViT](https://img.shields.io/badge/-Vision%20Transformers-263238?style=for-the-badge)
+![CNN](https://img.shields.io/badge/-CNN-1565C0?style=for-the-badge)
+![Speech-to-Text](https://img.shields.io/badge/-Speech%20to%20Text-00BFA6?style=for-the-badge)
+![Summarization](https://img.shields.io/badge/-Summarization-7C4DFF?style=for-the-badge)
+
+---
+
+### ☁️ DevOps & Cloud Kung-Fu
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+
+---
+
+### 🧰 Toolbox
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
+
+---
+
+<br>
+
+# ☕ Caffeine Stats
+
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HARISH20205&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HARISH20205&theme=dark&hide_border=false)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH20205&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harish20205&label=Profile%20views&color=0e75b6&style=flat" alt="harish20205" />
+</p>
