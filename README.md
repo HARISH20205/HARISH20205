@@ -113,9 +113,14 @@
 
 ---
 
+
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *“If you cannot explain a program to yourself, the chance of the computer getting it right is pretty small.”*
+>
+> — **Definitely Not Me**
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harish20205&label=Profile%20views&color=0e75b6&style=flat" alt="harish20205" />
