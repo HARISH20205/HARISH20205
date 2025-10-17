@@ -5,6 +5,7 @@
   Building bots that nearly pass the Turing test, driven by AI backends, Go panics, and logic hotfixed in prod.<br>
   Backend mayhem or agents hallucinating? I’ve got caffeine, let’s cook.
 </p>
+<p align="center">Check out the organization we're building: [HyperKuvid-Labs](https://github.com/HyperKuvid-Labs)</p>
 
 <br>
 
