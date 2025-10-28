@@ -12,7 +12,7 @@
 # 🔁 Fork First, Merge Later
 
 - Email: [harishkb20205@gmail.com](mailto:harishkb20205@gmail.com)
-- Portfolio: [harish-kb-portfolio.vercel.app](https://kb-harish-portfolio.web.app)
+- Portfolio: [https://kb-harish-portfolio.web.app](https://kb-harish-portfolio.web.app)
 - LinkedIn: https://linkedin.com/in/harish-kb-9417ba252
 
 ---
