@@ -13,6 +13,7 @@
 
 - Email: [harishkb20205@gmail.com](mailto:harishkb20205@gmail.com)
 - Portfolio: [https://kb-harish-portfolio.web.app](https://kb-harish-portfolio.web.app)
+- Resume: [View Resume](https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media)
 - LinkedIn: https://linkedin.com/in/harish-kb-9417ba252
 
 ---
