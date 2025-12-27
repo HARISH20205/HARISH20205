@@ -15,7 +15,7 @@
 - Portfolio: [https://harish-kb.web.app/](https://harish-kb.web.app)
 - Resume: [View Resume](https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media)
 - LinkedIn: https://linkedin.com/in/harish-kb-9417ba252
-
+- X: https://x.com/harish20205
 ---
 
 # 🛠️ Behind the Code
