@@ -1,126 +1,123 @@
-<h1 align="center">Hi, I'm Harish KB 👋</h1>
-<h3 align="center">AI Engineer • Backend Developer</h3>
+<h1 align="center">Hi, I'm Harish KB</h1>
+<h3 align="center">Backend Engineer • AI Systems • Fullstack Dev</h3>
 
 <p align="center">
-  Building bots that nearly pass the Turing test, driven by AI backends, Go panics, and logic hotfixed in prod.<br>
+  Building bots that nearly pass the Turing test - Go panics, GPU jobs, and hotfixes included.<br>
   Backend mayhem or agents hallucinating? I’ve got caffeine, let’s cook.
 </p>
-<p align="center">Check out the organization we're building: [HyperKuvid-Labs](https://github.com/HyperKuvid-Labs)</p>
 
-<br>
+<p align="center">
+  Org I'm building: <a href="https://github.com/HyperKuvid-Labs">HyperKuvid-Labs</a>
+</p>
 
-# 🔁 Fork First, Merge Later
+<p align="center">
+  <a href="mailto:harishkb20205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+  <a href="https://harish-kb.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" height="25"></a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25"></a>
+  <a href="https://x.com/harish20205"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="25"></a>
+  <a href="https://linkedin.com/in/harish-kb-9417ba252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+</p>
 
-- Email: [harishkb20205@gmail.com](mailto:harishkb20205@gmail.com)
-- Portfolio: [https://harish-kb.web.app/](https://harish-kb.web.app)
-- Resume: [View Resume](https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media)
-- LinkedIn: https://linkedin.com/in/harish-kb-9417ba252
-- X: https://x.com/harish20205
----
 
-# 🛠️ Behind the Code
+## What I Actually Do
 
-🔭 **Current Projects:** Advanced AI agents, large-scale AI inference & optimization systems, and scalable Go backend services.  
-🤝 **Collaboration Interests:** Robotics, AI systems, backend engineering, and LLM-powered applications.  
-🌱 **Skill Development:** Go (advanced backend), Langflow, React.js, ROS2, multi-model orchestration, and GPU scheduling.  
-❓ **Ask Me About:** AI agents, backend development, LLM integration, AI optimization, and deployment in constrained environments.
-
----
-
-# 🚀 Tech Arsenal
-
-### 🧠 Languages I Speak (to Computers)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+- **Backend & Distributed Systems:** Building robust APIs (FastAPI/Go), container orchestration, and microservices that don't crash under load.
+- **High-Performance Compute:** Optimizing inference engines, managing GPU scheduling, and squeezing performance out of hardware.
+- **Fullstack Engineering:** Connecting the dots from the database (Postgres/Mongo) to the client (React/TS), handling the chaos in between.
 
 ---
 
-### 🌐 Frontend Development
+## Projects
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+### Inferia ChatHub — Distributed GPU Backend
 
----
+*Python • Docker • Nosana • SGLang*
 
-### 🛠️ Backend Engineering
+- Backend for decentralized GPU compute
+- GPU job scheduling and container orchestration
+- 30% lower latency, 40% better GPU usage
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+### Nosana MCP Server — Infra Tooling
 
----
+*TypeScript • Go • MCP Protocol*
 
-### 🤖 AI, ML & Research Playground
+- Infra middleware for AI agents
+- Programmatic job and resource control
+- 40% faster jobs, 25% lower infra cost
 
-![LLMs](https://img.shields.io/badge/-LLMs-F9A825?style=for-the-badge)
-![Fine-tuning](https://img.shields.io/badge/-Fine--Tuning-512DA8?style=for-the-badge)
-![Inference](https://img.shields.io/badge/-Inference-3949AB?style=for-the-badge)
-![Quantization](https://img.shields.io/badge/-Quantization-0097A7?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=for-the-badge)
-![YOLO](https://img.shields.io/badge/-YOLOv5-4A148C?style=for-the-badge)
-![ViT](https://img.shields.io/badge/-Vision%20Transformers-263238?style=for-the-badge)
-![CNN](https://img.shields.io/badge/-CNN-1565C0?style=for-the-badge)
-![Speech-to-Text](https://img.shields.io/badge/-Speech%20to%20Text-00BFA6?style=for-the-badge)
-![Summarization](https://img.shields.io/badge/-Summarization-7C4DFF?style=for-the-badge)
+
+### PHYDRA — ISS Stowage System
+
+*FastAPI • C++ • React • Prisma • Docker*
+
+- High-performance stowage optimization system
+- Python backend driving C++ compute
+- 10M+ items processed in under 5 seconds
 
 ---
 
-### ☁️ DevOps & Cloud
+## Research
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+### FrugalSOT: Frugal Search Over The Models
+*IEEE ICICIS 2025 (Accepted)*
+- Architected edge-native NLP routing on Raspberry Pi 5 using NER/syntactic analysis, slashing inference time by 21.34% with <2.7% relevance loss.
 
----
+- Devised adaptive thresholding (EMA α=0.2) and cosine similarity logic to dynamically route requests across tiered models for zero-latency on-device execution.
 
-### 🧰 Toolbox
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
+### SpecQuant: Speculative Decoding & Quantization
+*IEEE ICPC2T 2026 (Accepted)*
+- Engineered adaptive speculative decoding with multi-parent quantization (FP16/Q8/Q4), achieving 22.6% faster inference via hardware-aware draft–target verification pipelines.
+- Implemented complexity-based prompt classification (syntactic/semantic metrics) for dynamic precision routing, maintaining <2% accuracy loss across diverse benchmarks.
 
 ---
 
-<br>
+## Stack
 
-# ☕ Caffeine Stats
 
+### AI Systems & High-Performance Compute
+**Optimized inference, kernel-level tuning, and distributed architectures.**
+- **Inference & Runtime:** vLLM, SGLang, Ollama, Eagle, Speculative Decoding, ONNX, MCP.
+- **Deep Learning:** PyTorch, Transformers, Quantization (LLM), Computer Vision (YOLO/OpenCV).
+- **Compute:** CUDA, C/C++ (Low-level optimization), Distributed Training.
+- **Infra:** Docker, NGINX, AWS (EC2/S3), CI/CD, Nosana (GPU Compute).
+
+### Fullstack & Cloud Infrastructure
+**Scalable, type-safe, and distributed systems.**
+- **Languages:** Python (FastAPI/Django), Go, C++.
+- **Data Layer:** PostgreSQL, MongoDB, Redis, Prisma.
+- **Frontend:** React.js, Tailwind CSS, TypeScript.
+
+## Professional Experience
+
+- **AI Engineer Intern — Hooman Digital:**
+  - Built the backend infrastructure for decentralized GPU inference.
+  - Managed container lifecycles and job scheduling systems.
+
+- **Generative AI Intern — TITAN Company:**
+  - Refactored legacy Flask services to **FastAPI**, boosting throughput by 2.5x.
+  - Built workflows with LangGraph to slash manual cataloging time by 60%.
+
+- **AI R&D Intern — eBramha Techworks:**
+  - Research-focused backend work for NLP summarization and Speech-to-Text systems.
+
+---
+
+## Contact
+
+- **Email:** [harishkb20205@gmail.com](mailto:harishkb20205@gmail.com)
+- **Portfolio:** [harish-kb.web.app](https://harish-kb.web.app)
+- **LinkedIn:** [harish-kb-9417ba252](https://linkedin.com/in/harish-kb-9417ba252)
+- **X / Twitter:** [@harish20205](https://x.com/harish20205)
+- **Resume:** [View PDF](https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media)
+
+
+---
 
 <div align="center">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH20205&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH20205&layout=compact&theme=transparent&hide=jupyter%20notebook" />
 
 </div>
 
----
-
-
-## ✍️ Random Dev Quote
-
-> *“If you cannot explain a program to yourself, the chance of the computer getting it right is pretty small.”*
->
-> — **Definitely Not Me**
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harish20205&label=Profile%20views&color=0e75b6&style=flat" alt="harish20205" />
-</p>
+> "It works on my machine." — Famous last words before deployment
