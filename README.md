@@ -76,17 +76,18 @@
 
 
 ### AI Systems & High-Performance Compute
-**Optimized inference, kernel-level tuning, and distributed architectures.**
-- **Inference & Runtime:** vLLM, SGLang, Ollama, Eagle, Speculative Decoding, ONNX, MCP.
-- **Deep Learning:** PyTorch, Transformers, Quantization (LLM), Computer Vision (YOLO/OpenCV).
-- **Compute:** CUDA, C/C++ (Low-level optimization), Distributed Training.
-- **Infra:** Docker, NGINX, AWS (EC2/S3), CI/CD, Nosana (GPU Compute).
+- **Inference Engines:** vLLM, SGLang, Ollama, ONNX
+- **Optimization Techniques:** EAGLE, Speculative Decoding, Quantization, LoRA/PEFT
+- **Compute & Systems:** CUDA, C/C++, Distributed Training
+- **Vision & Architectures:** PyTorch, OpenCV, YOLO, CNN, ViT
+- **Applied AI:** Reinforcement Learning (RL), Diffusion Models, Speech and Summarization Systems
+- **AI Orchestration:** LangChain, LangGraph, Model Context Protocol (MCP), CrewAI
 
-### Fullstack & Cloud Infrastructure
-**Scalable, type-safe, and distributed systems.**
-- **Languages:** Python (FastAPI/Django), Go, C++.
-- **Data Layer:** PostgreSQL, MongoDB, Redis, Prisma.
-- **Frontend:** React.js, Tailwind CSS, TypeScript.
+### Systems Engineering & Fullstack
+- **Core Stack:** Python (FastAPI/Django), Go, C++
+- **Data Layer:** PostgreSQL, MongoDB, Redis, Prisma
+- **Frontend:** React.js, Tailwind CSS, TypeScript
+- **Infra & Deployment:** Docker, NGINX, AWS (EC2/S3), CI/CD, Nosana (GPU Compute)
 
 ## Professional Experience
 
