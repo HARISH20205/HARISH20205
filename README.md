@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harish KB</h1>
-<h3 align="center">Backend Engineer • AI Systems • Fullstack Dev</h3>
+<h3 align="center">AI Engineer • Backend Developer</h3>
 
 <p align="center">
   Building bots that nearly pass the Turing test - Go panics, GPU jobs, and hotfixes included.<br>
@@ -89,7 +89,7 @@
 - **Frontend:** React.js, Tailwind CSS, TypeScript
 - **Infra & Deployment:** Docker, NGINX, AWS (EC2/S3), CI/CD, Nosana (GPU Compute)
 
-## Professional Experience
+## Experience
 
 - **AI Engineer Intern — Hooman Digital:**
   - Built the backend infrastructure for decentralized GPU inference.
