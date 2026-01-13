@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harish KB</h1>
-<h3 align="center">AI Engineer • Backend Developer</h3>
+<h3 align="center">AI & Backend Developer | LLM Systems</h3>
 
 <p align="center">
   Building bots that nearly pass the Turing test - Go panics, GPU jobs, and hotfixes included.<br>
@@ -121,4 +121,4 @@
 
 </div>
 
-> "It works on my machine." — Famous last words before deployment
+>Open to collaborations on efficient LLM inference, model optimization, and distributed systems.
