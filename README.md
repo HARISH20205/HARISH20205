@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:harishkb20205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
   <a href="https://harish-kb.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" height="25"></a>
-  <a href="https://firebasestorage.googleapis.com/v0/b/verbisense.appspot.com/o/resume%2FHarish%2031-10-2025.pdf?alt=media"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25"></a>
+  <a href="https://drive.google.com/file/d/1_ROeNxEwkntzYyjpbPW687l3qm_JMRnP/view"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25"></a>
   <a href="https://x.com/harish20205"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="25"></a>
   <a href="https://linkedin.com/in/harish-kb-9417ba252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
 </p>
